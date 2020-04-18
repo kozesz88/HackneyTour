@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">HackneyTour</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_cafe">Cafe</string>
+    <string name="category_pubs">Pubs</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_culture">Culture</string>
+
+    <string name="cafe_name_Warbler">Yellow Warbler</string>
+    <string name="cafe_address_Warbler"> 9 Northwold Rd,London N16 7HL </string>
+    <string name="cafe_openingTime_Warbler"> Mon-Fri: 8-16, Sat-Sun: 9-16</string>
+    <string name="cafe_name_BlackCat">Black Cat</string>
+    <string name="cafe_address_BlackCat">76A Clarence Rd,London E5 8HB</string>
+    <string name="cafe_openingTime_BlackCat">Mon-Fri: 10-21, Sat-Sun: 11-22</string>
+    <string name="cafe_name_MyCupOfTea">Coffee Is My Cup Of Tea</string>
+    <string name="cafe_address_MyCupOfTea"> 103B Dalston Ln,London E8 1NH </string>
+    <string name="cafe_openingTime_MyCupOfTea">Mon-Fri: 8-19, Sat-Sun: 10-20</string>
+    <string name="cafe_name_PalmVaults"> Palm Vaults </string>
+    <string name="cafe_address_PalmVaults"> 411 Mare St, London E8 1HY </string>
+    <string name="cafe_openingTime_PalmVaults">Mon-Fri: 10-19, Sat-Sun: 11-21</string>
+    <string name="cafe_name_BlackSheepCoffee"> Black Sheep Coffee</string>
+    <string name="cafe_address_BlackSheepCoffee"> 1C Amhurst Rd, London E8 1LL </string>
+    <string name="cafe_openingTime_BlackSheepCoffee">Mon-Fri: 10-19, Sat-Sun: 11-18</string>
+    <string name="cafe_name_Leles"> Leles </string>
+    <string name="cafe_address_Leles"> 50 Lower Clapton Rd, London E5 0RN </string>
+    <string name="cafe_openingTime_Leles">Mon-Fri: 10-17, Sat-Sun: 11-16</string>
+    <string name="cafe_name_Coffee8"> Coffee 8 </string>
+    <string name="cafe_address_Coffee8"> 9-354 Mare St, London E8 1HR</string>
+    <string name="cafe_openingTime_Coffee8">Mon-Fri: 10-19, Sat-Sun: 11-21</string>
+
+    <string name="pub_name_ThePemburyTavern">The Pembury Tavern</string>
+    <string name="pub_address_ThePemburyTavern"> 90 Amhurst Rd, London E8 1JH </string>
+    <string name="pub_openingTime_ThePemburyTavern"> Mon-Fri: 12-23, Sat-Sun: 12-1</string>
+    <string name="pub_name_OsloHackney">Oslo Hackney</string>
+    <string name="pub_address_OsloHackney"> 1A Amhurst Rd, London E8 1LL </string>
+    <string name="pub_openingTime_OsloHackney"> Mon-Fri: 12-23, Sat-Sun: 13-23</string>
+    <string name="pub_name_TheStarbyHackneyDowns"> The Star by Hackney Downs </string>
+    <string name="pub_address_TheStarbyHackneyDowns"> 35 Queensdown Rd, London E5 8JQ </string>
+    <string name="pub_openingTime_TheStarbyHackneyDowns"> Mon-Fri: 11-23, Sat-Sun: 12-1</string>
+    <string name="pub_name_TheCockTavern">The Cock Tavern</string>
+    <string name="pub_address_TheCockTavern"> 315 Mare St, London E8 1EJ </string>
+    <string name="pub_openingTime_TheCockTavern"> Mon-Fri: 12-23, Sat-Sun: 12-1</string>
+    <string name="pub_name_TheThreeCompasses"> The Three Compasses </string>
+    <string name="pub_address_TheThreeCompasses"> 99 Dalston Ln, London E8 1NH </string>
+    <string name="pub_openingTime_TheThreeCompasses"> Mon-Fri: 12-23, Sat-Sun: 13-23</string>
+    <string name="pub_name_PubOnThePark"> Pub On The Park </string>
+    <string name="pub_address_PubOnThePark"> 19 Martello St, London E8 3PE </string>
+    <string name="pub_openingTime_PubOnThePark"> Mon-Fri: 11-23, Sat-Sun: 12-1</string>
+
+    <string name="culture_name_Cinema">Cinema</string>
+    <string name="culture_address_Cinema"> 270 Mare St, London E8 1HE </string>
+    <string name="culture_openingTime_Cinema"> Mon-Sun: 10-23 </string>
+    <string name="culture_name_HackneyEmpire">Hackney Empire</string>
+    <string name="culture_address_HackneyEmpire"> 291 Mare St, London E8 1EJ </string>
+    <string name="culture_openingTime_HackneyEmpire"> Mon-Sun: 12-22 </string>
+    <string name="culture_name_HackneyMuseum">Hackney Museum</string>
+    <string name="culture_address_HackneyMuseum"> 1 Reading Ln, London E8 1GQ </string>
+    <string name="culture_openingTime_HackneyMuseum"> Mon-Sat: 10-18 </string>
+    <string name="culture_name_RioCinema"> Rio Cinema </string>
+    <string name="culture_address_RioCinema"> 107 Kingsland High St, London E8 2PB </string>
+    <string name="culture_openingTime_RioCinema"> Mon-Sun: 12-22 </string>
+
+    <string name="park_name_VictoriaPark">Victoria Park</string>
+    <string name="park_address_VictoriaPark"> Grove Rd, London E3 5TB </string>
+    <string name="park_openingTime_VictoriaPark"> Mon-Sun: 0-24</string>
+    <string name="park_name_HackneyDowns">Hackney Downs</string>
+    <string name="park_address_HackneyDowns">Downs Park Rd, London E5 8NP </string>
+    <string name="park_openingTime_HackneyDowns"> Mon-Sun: 0-24</string>
+    <string name="park_name_AbneyParkCemeteryTrust">Abney Park Cemetery Trust</string>
+    <string name="park_address_AbneyParkCemeteryTrust"> 215 Stoke Newington High St,London N16 0LH </string>
+    <string name="park_openingTime_AbneyParkCemeteryTrust"> Mon-Sun: 8-19</string>
+    <string name="park_name_LondonFields"> London Fields </string>
+    <string name="park_address_LondonFields"> Westgate St, London E8 3RL </string>
+    <string name="park_openingTime_LondonFields"> Mon-Sun: 0-24</string>
+    <string name="park_name_ClissoldPark"> Clissold Park</string>
+    <string name="park_address_ClissoldPark"> Green Lanes, London N16 9HJ </string>
+    <string name="park_openingTime_ClissoldPark"> Mon-Sun: 7:30-20</string>
+
+
+</resources>
